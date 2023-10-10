@@ -40,4 +40,5 @@ if(move_uploaded_file($file_tmp,"upload-files/". $file_name)){
         echo $_POST['age']. "<br>";
 
     }
+    // end 
 ?>
